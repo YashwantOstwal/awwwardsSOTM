@@ -21,7 +21,7 @@ export default function Hero() {
       />
       <motion.div
         style={{ x, rotate }}
-        className="absolute top-0 z-20 flex h-screen origin-bottom-left flex-col justify-end px-2 pb-2 lg:px-[1.27315vw] lg:pb-[1.27315vw]"
+        className="absolute inset-0 z-20 flex h-screen origin-bottom-left flex-col justify-end px-2 pb-2 lg:px-[1.27315vw] lg:pb-[1.27315vw]"
       >
         <LogoWithTrademark fill="#f8f8f8" />
       </motion.div>
