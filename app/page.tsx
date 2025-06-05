@@ -8,7 +8,6 @@ import Group from "@/sections/Group";
 export default function Page() {
   return (
     <main>
-      <div className="h-screen"></div>
       <Group />
       <TheStudio />
       <ClientsPlusPartners />
